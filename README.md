@@ -54,18 +54,25 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+_<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 38 14" src="https://github.com/user-attachments/assets/dcc9e127-800f-40a6-9b45-4a616e6cfc5d" />
+
 
 ### Meus Atalhos
 
 _Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
 
 ```text
-Cole aqui o seu primeiro atalho, já adaptado.
-```
+<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 38 56" src="https://github.com/user-attachments/assets/3050b44f-41a3-4503-87c0-8b926de7d969" />
+
+Col
+<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 38 14" src="https://github.com/user-attachments/assets/007e7c63-5fa5-4ef0-8952-2b8cdc872565" />
+
+```<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 39 21" src="https://github.com/user-attachments/assets/9bfa15d5-5ac8-4f11-88fe-404b862fe0a4" />
+
+<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 40 11" src="https://github.com/user-attachments/assets/d0e266af-3816-4791-b97f-0899f08e6e76" />
 
 ```text
-Cole aqui o seu segundo atalho, já adaptado.
+pronpt para pesquisa  de marcado e apresentação.
 ```
 
 ### Minha Delegação
@@ -76,12 +83,21 @@ Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, l
 
 ### O Plano da IA
 
+
 _Cole o print do plano e conte o que você ajustou antes de a IA começar._
 
 ### O Resultado
+<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 38 56" src="https://github.com/user-attachments/assets/1ecaa87c-16ee-4d35-b4ac-05d90ced00bf" />
+<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 39 21" src="https://github.com/user-attachments/assets/b5ab1933-38f1-4205-bdf0-1f4274abf059" />
+<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 40 17" src="https://github.com/user-attachments/assets/4d514252-373d-41e9-aa8d-8ed773112a68" />
+<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 40 11" src="https://github.com/user-attachments/assets/f56b369a-babe-4297-bea6-5bc7d8aa5d53" />
+<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 40 17" src="https://github.com/user-attachments/assets/d444faf6-2555-4b69-92fb-7deb7a2c762b" />
+<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 40 11" src="https://github.com/user-attachments/assets/a254da29-143e-4c51-aa58-a632f7af065f" />
 
-_Cole o print do resultado e conte como você conferiu antes de usar._
+
+
+
 
 ### Como Foi para Você
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+_muito pratico , e adianta horas de pesquisa , deixando assim só a supervisão fianl. e aprovação, 
