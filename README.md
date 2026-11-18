@@ -3,6 +3,7 @@
 Desafio de Projeto da [DIO](https://dio.me): monte o seu kit de IA para o dia a dia e delegue uma tarefa real, com você no comando.
 
 O kit foi criado pelo Expert Bruno Lima com os prompts, templates, checklists e skills usados nas Aulas. Ele não é uma apostila: abra a pasta que resolve o seu problema, copie o modelo, adapte e use.
+<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 38 14" src="https://github.com/user-attachments/assets/9a16d18e-d6ca-48d5-921f-384fa822b151" />
 
 **Copie → adapte → teste → confira → melhore**
 
@@ -22,6 +23,7 @@ Você não precisa instalar nada nem saber programar. Tudo acontece no navegador
 4. **Teste.** A primeira resposta é um ponto de partida. Ajuste até funcionar para a sua realidade.
 5. **Delegue.** Com o [template de delegação](02-templates/03-delegacao.md), entregue a tarefa à IA. Peça o plano antes de ela começar, acompanhe e valide o resultado.
 6. **Confira.** Provável não é o mesmo que verdadeiro. Revise com o [Pare, Confira, Use](03-checklists/01-pare-confira-use.md) antes de usar.
+<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 38 14" src="https://github.com/user-attachments/assets/63c483ae-694a-4f5a-a097-ac7dff0518e7" />
 
 ## O Que Tem no Kit
 
@@ -61,7 +63,8 @@ _Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
 _Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
 
 ```text
-Cole aqui o seu primeiro atalho, já adaptado.
+<img width="1920" height="1080" alt="Captura de tela 2026-11-18 08 38 14" src="https://github.com/user-attachments/assets/8385c8d7-c7cd-4e6c-87e5-987862f5cfe5" />
+ aqui o seu primeiro atalho, já adaptado.
 ```
 
 ```text
